@@ -1,0 +1,4 @@
+marca,modelo,color,transmision,placa,categoria,id,alquilado,ubicación
+bmw,2021,rojo,automatica,cub123,premiun,1,false,santafe
+renault,2018,blanco,manual,cob123,bajo,2,true,chapinero
+mazda,2022,verde,automatica,vub123,normal,3,true,chico
